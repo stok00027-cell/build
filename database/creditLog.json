@@ -733,5 +733,33 @@
     "amount": 5,
     "reason": "Kredit awal (user baru)",
     "at": "2026-08-15T09:43:48.027Z"
+  },
+  {
+    "userId": 8242397030,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-16T11:13:16.994Z"
+  },
+  {
+    "userId": 8242397030,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-16T11:13:44.006Z"
+  },
+  {
+    "userId": 8227270391,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Rename Domain",
+    "at": "2026-08-16T11:16:52.932Z"
+  },
+  {
+    "userId": 8227270391,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-16T11:17:23.925Z"
   }
 ]
