@@ -349,5 +349,23 @@
     "joinedAt": "2026-08-15T09:56:20.845Z",
     "lastSeenAt": "2026-08-15T09:56:20.845Z",
     "startCount": 1
+  },
+  "8369443744": {
+    "id": 8369443744,
+    "username": "KarlzXml",
+    "first_name": "Karlz",
+    "last_name": null,
+    "joinedAt": "2026-08-16T11:20:22.505Z",
+    "lastSeenAt": "2026-08-16T11:20:22.505Z",
+    "startCount": 1
+  },
+  "8349255189": {
+    "id": 8349255189,
+    "username": "RendyEnv5",
+    "first_name": "𝗟𝗜𝗢𝗡𝗘𝗟 𝗥𝗘𝗡𝗗𝗬",
+    "last_name": null,
+    "joinedAt": "2026-08-16T11:50:08.427Z",
+    "lastSeenAt": "2026-08-16T11:50:08.427Z",
+    "startCount": 1
   }
 }
