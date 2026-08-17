@@ -11,11 +11,11 @@
   "859743646": {
     "id": 859743646,
     "username": "yarz_env01",
-    "first_name": "𝐘𝐀𝐑𝐙.𝐄𝐍𝐕 </𝟗𝟗𝟗",
+    "first_name": "𝐘𝐀𝐑𝐙.𝐓𝐑𝐈𝐙𝐄𝟓",
     "last_name": null,
     "joinedAt": "2026-08-17T05:45:55.002Z",
-    "lastSeenAt": "2026-08-17T05:45:55.002Z",
-    "startCount": 1
+    "lastSeenAt": "2026-08-17T10:21:21.720Z",
+    "startCount": 2
   },
   "1057803758": {
     "id": 1057803758,
@@ -491,8 +491,8 @@
     "first_name": "メ𝚡𝚟𝚊̀𝚗𝚎̈𝚜𝚌𝚝 𝚜𝚊𝚜𝚞𝚔𝚎",
     "last_name": null,
     "joinedAt": "2026-08-17T00:19:50.242Z",
-    "lastSeenAt": "2026-08-17T00:19:50.242Z",
-    "startCount": 1
+    "lastSeenAt": "2026-08-17T09:05:45.369Z",
+    "startCount": 2
   },
   "5528005225": {
     "id": 5528005225,
@@ -520,5 +520,14 @@
     "joinedAt": "2026-08-17T02:57:20.610Z",
     "lastSeenAt": "2026-08-17T04:11:39.739Z",
     "startCount": 4
+  },
+  "8478723586": {
+    "id": 8478723586,
+    "username": "Xaveluxy",
+    "first_name": "XaveLuxy",
+    "last_name": null,
+    "joinedAt": "2026-08-17T08:25:27.950Z",
+    "lastSeenAt": "2026-08-17T08:25:27.950Z",
+    "startCount": 1
   }
 }
