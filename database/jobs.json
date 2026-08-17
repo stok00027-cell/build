@@ -152,5 +152,16 @@
     "status": "failed",
     "created_at": "2026-08-17T09:15:32.276Z",
     "completed_at": "2026-08-17T09:19:23.152Z"
+  },
+  "msx3afy0fop6y": {
+    "job_id": "msx3afy0fop6y",
+    "release_id": 371676611,
+    "release_tag": "build-msx3afy0fop6y",
+    "run_id": 32020221530,
+    "user_id": 2008479765,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-17T10:27:13.145Z"
   }
 }
