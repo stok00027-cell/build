@@ -187,5 +187,16 @@
     "status": "failed",
     "created_at": "2026-08-17T10:41:08.495Z",
     "completed_at": "2026-08-17T10:41:40.489Z"
+  },
+  "msx3ty7pwubix": {
+    "job_id": "msx3ty7pwubix",
+    "release_id": 371684028,
+    "release_tag": "build-msx3ty7pwubix",
+    "run_id": 32021411474,
+    "user_id": 2010051991,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-17T10:42:22.165Z"
   }
 }
