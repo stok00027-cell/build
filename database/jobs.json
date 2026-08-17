@@ -9,5 +9,16 @@
     "build_type": "release",
     "status": "pending",
     "created_at": "2026-08-17T02:21:18.928Z"
+  },
+  "mswm4a7mfxhr3": {
+    "job_id": "mswm4a7mfxhr3",
+    "release_id": 371496858,
+    "release_tag": "build-mswm4a7mfxhr3",
+    "run_id": 31987984458,
+    "user_id": 2114428721,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-17T02:26:31.663Z"
   }
 }
