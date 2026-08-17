@@ -964,5 +964,54 @@
     "amount": 5,
     "reason": "Kredit awal (user baru)",
     "at": "2026-08-17T05:24:43.680Z"
+  },
+  {
+    "userId": 1629305481,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-17T05:41:20.969Z"
+  },
+  {
+    "userId": 859743646,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-17T05:45:55.001Z"
+  },
+  {
+    "userId": 7193787015,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-17T06:03:58.016Z"
+  },
+  {
+    "userId": 7389118891,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-17T06:06:15.806Z"
+  },
+  {
+    "userId": 2008479765,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-17T07:35:30.900Z"
+  },
+  {
+    "userId": 2008479765,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-17T08:24:31.627Z"
+  },
+  {
+    "userId": 8478723586,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-17T08:25:27.949Z"
   }
 ]
