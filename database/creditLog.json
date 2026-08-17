@@ -1041,5 +1041,40 @@
     "amount": 5,
     "reason": "Kredit awal (user baru)",
     "at": "2026-08-17T09:05:45.368Z"
+  },
+  {
+    "userId": 5820098453,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP) [debug]",
+    "at": "2026-08-17T09:06:18.327Z"
+  },
+  {
+    "userId": 8478723586,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-17T09:13:36.842Z"
+  },
+  {
+    "userId": 859743646,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Rename Domain",
+    "at": "2026-08-17T10:10:52.225Z"
+  },
+  {
+    "userId": 7193787015,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Recolour Script",
+    "at": "2026-08-17T10:16:26.054Z"
+  },
+  {
+    "userId": 2008479765,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-17T10:25:34.739Z"
   }
 ]
