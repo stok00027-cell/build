@@ -929,5 +929,40 @@
     "amount": 5,
     "reason": "Kredit awal (user baru)",
     "at": "2026-08-17T04:31:18.219Z"
+  },
+  {
+    "userId": 2008479765,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-17T04:31:39.133Z"
+  },
+  {
+    "userId": 1629305481,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-17T04:43:54.214Z"
+  },
+  {
+    "userId": 7861218464,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Rename Domain",
+    "at": "2026-08-17T04:56:12.914Z"
+  },
+  {
+    "userId": 7389118891,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-17T05:00:19.374Z"
+  },
+  {
+    "userId": 8859497242,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-17T05:24:43.680Z"
   }
 ]
