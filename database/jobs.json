@@ -283,5 +283,16 @@
     "status": "failed",
     "created_at": "2026-08-17T14:14:19.789Z",
     "completed_at": "2026-08-17T14:17:49.717Z"
+  },
+  "msxcab1fzo1br": {
+    "job_id": "msxcab1fzo1br",
+    "release_id": 371794216,
+    "release_tag": "build-msxcab1fzo1br",
+    "run_id": 32039771143,
+    "user_id": 8844143121,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-17T14:39:02.919Z"
   }
 }
