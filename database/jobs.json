@@ -343,5 +343,16 @@
     "status": "success",
     "created_at": "2026-08-17T19:00:43.616Z",
     "completed_at": "2026-08-17T19:07:21.436Z"
+  },
+  "msxqlba05cw6k": {
+    "job_id": "msxqlba05cw6k",
+    "release_id": 371957705,
+    "release_tag": "build-msxqlba05cw6k",
+    "run_id": 32070500616,
+    "user_id": 7193787015,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-17T21:19:32.655Z"
   }
 }
