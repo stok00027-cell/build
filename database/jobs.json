@@ -80,5 +80,16 @@
     "status": "failed",
     "created_at": "2026-08-17T07:37:19.419Z",
     "completed_at": "2026-08-17T07:41:20.880Z"
+  },
+  "mswyz2l45mhg7": {
+    "job_id": "mswyz2l45mhg7",
+    "release_id": 371614067,
+    "release_tag": "build-mswyz2l45mhg7",
+    "run_id": 32010371653,
+    "user_id": 2008479765,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-17T08:26:23.764Z"
   }
 }
