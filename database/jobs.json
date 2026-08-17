@@ -307,5 +307,16 @@
     "status": "failed",
     "created_at": "2026-08-17T14:47:54.976Z",
     "completed_at": "2026-08-17T14:49:08.818Z"
+  },
+  "msxdxqfu0mcxi": {
+    "job_id": "msxdxqfu0mcxi",
+    "release_id": 371802381,
+    "release_tag": "build-msxdxqfu0mcxi",
+    "run_id": 32042267648,
+    "user_id": 8511513555,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-17T15:25:15.247Z"
   }
 }
