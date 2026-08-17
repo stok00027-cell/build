@@ -1111,5 +1111,138 @@
     "amount": 5,
     "reason": "Kredit awal (user baru)",
     "at": "2026-08-17T11:16:12.771Z"
+  },
+  {
+    "userId": 8658766216,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-17T11:22:35.990Z"
+  },
+  {
+    "userId": 8844143121,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-17T11:29:14.638Z"
+  },
+  {
+    "userId": 8844143121,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-17T11:30:33.738Z"
+  },
+  {
+    "userId": 8658766216,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Rename Domain",
+    "at": "2026-08-17T11:37:05.154Z"
+  },
+  {
+    "userId": 8658766216,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Rename Domain",
+    "at": "2026-08-17T11:40:48.665Z"
+  },
+  {
+    "userId": 8233992441,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-17T11:59:35.964Z"
+  },
+  {
+    "userId": 8478723586,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-17T13:28:04.467Z"
+  },
+  {
+    "userId": 8478723586,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-17T13:40:05.851Z"
+  },
+  {
+    "userId": 8844143121,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-17T13:52:53.355Z"
+  },
+  {
+    "userId": 8859497242,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-17T14:04:25.165Z"
+  },
+  {
+    "userId": 8658766216,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-17T14:11:41.525Z"
+  },
+  {
+    "userId": 8844143121,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-17T14:38:29.767Z"
+  },
+  {
+    "userId": 1446376752,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-17T14:45:34.575Z"
+  },
+  {
+    "userId": 1446376752,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-17T14:46:37.289Z"
+  },
+  {
+    "userId": 8747272578,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-17T14:53:50.853Z"
+  },
+  {
+    "userId": 8552675557,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-17T15:03:36.266Z"
+  },
+  {
+    "userId": 8552675557,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Rename Domain",
+    "at": "2026-08-17T15:12:56.357Z"
+  },
+  {
+    "userId": 8552675557,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-17T15:13:52.422Z"
+  },
+  {
+    "userId": 8511513555,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-17T15:21:25.966Z"
   }
 ]
