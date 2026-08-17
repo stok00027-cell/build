@@ -259,5 +259,16 @@
     "status": "success",
     "created_at": "2026-08-17T13:53:25.329Z",
     "completed_at": "2026-08-17T14:00:25.969Z"
+  },
+  "msxb2egtlsf78": {
+    "job_id": "msxb2egtlsf78",
+    "release_id": 371786864,
+    "release_tag": "build-msxb2egtlsf78",
+    "run_id": 32037759041,
+    "user_id": 8859497242,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-17T14:04:53.742Z"
   }
 }
