@@ -164,5 +164,16 @@
     "status": "failed",
     "created_at": "2026-08-17T10:27:13.145Z",
     "completed_at": "2026-08-17T10:27:45.049Z"
+  },
+  "msx3ole339rz5": {
+    "job_id": "msx3ole339rz5",
+    "release_id": 371681988,
+    "release_tag": "build-msx3ole339rz5",
+    "run_id": 32021091002,
+    "user_id": 2114428721,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-17T10:38:13.399Z"
   }
 }
