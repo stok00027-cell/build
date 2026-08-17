@@ -44,5 +44,16 @@
     "status": "failed",
     "created_at": "2026-08-17T04:33:32.692Z",
     "completed_at": "2026-08-17T04:37:33.747Z"
+  },
+  "mswt32slk50m5": {
+    "job_id": "mswt32slk50m5",
+    "release_id": 371545885,
+    "release_tag": "build-mswt32slk50m5",
+    "run_id": 31998783716,
+    "user_id": 1629305481,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-17T05:41:32.375Z"
   }
 }
