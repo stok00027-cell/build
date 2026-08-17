@@ -91,5 +91,16 @@
     "build_type": "release",
     "status": "pending",
     "created_at": "2026-08-17T08:26:23.764Z"
+  },
+  "mswz3h8fsz3n7": {
+    "job_id": "mswz3h8fsz3n7",
+    "release_id": 371615764,
+    "release_tag": "build-mswz3h8fsz3n7",
+    "run_id": 32010635370,
+    "user_id": 8478723586,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-17T08:29:49.996Z"
   }
 }
