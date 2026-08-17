@@ -140,5 +140,16 @@
     "status": "failed",
     "created_at": "2026-08-17T09:07:45.063Z",
     "completed_at": "2026-08-17T09:11:36.059Z"
+  },
+  "msx0q9q2oeezs": {
+    "job_id": "msx0q9q2oeezs",
+    "release_id": 371639667,
+    "release_tag": "build-msx0q9q2oeezs",
+    "run_id": 32014282904,
+    "user_id": 8478723586,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-17T09:15:32.276Z"
   }
 }
