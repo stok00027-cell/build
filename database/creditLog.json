@@ -894,5 +894,19 @@
     "amount": 1,
     "reason": "Build Flutter (ZIP)",
     "at": "2026-08-17T03:01:43.146Z"
+  },
+  {
+    "userId": 7861218464,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Rename Domain",
+    "at": "2026-08-17T03:07:18.918Z"
+  },
+  {
+    "userId": 7589575561,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-17T03:14:56.575Z"
   }
 ]
