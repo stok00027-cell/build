@@ -451,5 +451,16 @@
     "status": "failed",
     "created_at": "2026-08-18T05:20:00.251Z",
     "completed_at": "2026-08-18T05:20:32.768Z"
+  },
+  "msy9mn42gfra0": {
+    "job_id": "msy9mn42gfra0",
+    "release_id": 372122927,
+    "release_tag": "build-msy9mn42gfra0",
+    "run_id": 32105936597,
+    "user_id": 8831298833,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-18T06:12:26.399Z"
   }
 }
