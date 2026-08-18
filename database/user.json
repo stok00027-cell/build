@@ -554,8 +554,8 @@
     "first_name": "𝙕𝘼𝙓𝘾𝙆𝙄𝙕𝙕 > (⩇⩇:⩇⩇)",
     "last_name": null,
     "joinedAt": "2026-08-17T15:03:36.267Z",
-    "lastSeenAt": "2026-08-18T04:05:59.981Z",
-    "startCount": 2
+    "lastSeenAt": "2026-08-18T05:08:26.801Z",
+    "startCount": 3
   },
   "8511513555": {
     "id": 8511513555,
@@ -583,5 +583,14 @@
     "joinedAt": "2026-08-18T03:25:48.128Z",
     "lastSeenAt": "2026-08-18T03:25:48.128Z",
     "startCount": 1
+  },
+  "8831298833": {
+    "id": 8831298833,
+    "username": "dbanido",
+    "first_name": "-bàlz!? </>",
+    "last_name": null,
+    "joinedAt": "2026-08-18T05:08:27.344Z",
+    "lastSeenAt": "2026-08-18T05:09:14.914Z",
+    "startCount": 2
   }
 }
