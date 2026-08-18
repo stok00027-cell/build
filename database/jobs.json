@@ -400,7 +400,8 @@
     "user_id": 8670094886,
     "analyze_only": false,
     "build_type": "release",
-    "status": "pending",
-    "created_at": "2026-08-18T01:23:19.265Z"
+    "status": "failed",
+    "created_at": "2026-08-18T01:23:19.265Z",
+    "completed_at": "2026-08-18T01:30:17.138Z"
   }
 }
