@@ -1391,5 +1391,103 @@
     "amount": 1,
     "reason": "Build Flutter (ZIP)",
     "at": "2026-08-18T04:42:28.965Z"
+  },
+  {
+    "userId": 8552675557,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Rename Domain",
+    "at": "2026-08-18T05:06:28.143Z"
+  },
+  {
+    "userId": 8831298833,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-18T05:08:27.343Z"
+  },
+  {
+    "userId": 8831298833,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-18T05:10:05.955Z"
+  },
+  {
+    "userId": 1068177495,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-18T05:15:17.286Z"
+  },
+  {
+    "userId": 2010051991,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-18T05:19:51.626Z"
+  },
+  {
+    "userId": 8831298833,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-18T06:11:42.809Z"
+  },
+  {
+    "userId": 8804030340,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-18T06:18:41.963Z"
+  },
+  {
+    "userId": 8831298833,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-18T06:21:51.919Z"
+  },
+  {
+    "userId": 7675952574,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-18T06:41:01.692Z"
+  },
+  {
+    "userId": 8713961528,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-18T06:47:17.193Z"
+  },
+  {
+    "userId": 8713961528,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP) [debug]",
+    "at": "2026-08-18T06:49:32.193Z"
+  },
+  {
+    "userId": 7094170826,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-18T07:04:35.169Z"
+  },
+  {
+    "userId": 8831298833,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-18T07:15:16.010Z"
+  },
+  {
+    "userId": 8247917167,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Rename Domain",
+    "at": "2026-08-18T07:45:00.439Z"
   }
 ]
