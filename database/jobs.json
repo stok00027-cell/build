@@ -570,5 +570,16 @@
     "status": "failed",
     "created_at": "2026-08-18T08:40:48.564Z",
     "completed_at": "2026-08-18T08:41:10.324Z"
+  },
+  "msyf02aw02xyd": {
+    "job_id": "msyf02aw02xyd",
+    "release_id": 372201866,
+    "release_tag": "build-msyf02aw02xyd",
+    "run_id": 32117775648,
+    "user_id": 8804030340,
+    "analyze_only": true,
+    "build_type": "analyze",
+    "status": "pending",
+    "created_at": "2026-08-18T08:42:48.700Z"
   }
 }
