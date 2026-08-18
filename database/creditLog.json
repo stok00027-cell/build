@@ -1363,5 +1363,33 @@
     "amount": 5,
     "reason": "Kredit awal (user baru)",
     "at": "2026-08-18T03:25:48.126Z"
+  },
+  {
+    "userId": 8247917167,
+    "type": "earn",
+    "amount": 30,
+    "reason": "Redeem voucher",
+    "at": "2026-08-18T03:25:52.275Z"
+  },
+  {
+    "userId": 1872202016,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-18T03:55:40.701Z"
+  },
+  {
+    "userId": 8552675557,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Rename Domain",
+    "at": "2026-08-18T04:10:09.663Z"
+  },
+  {
+    "userId": 1872202016,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-18T04:42:28.965Z"
   }
 ]
