@@ -582,5 +582,16 @@
     "status": "failed",
     "created_at": "2026-08-18T08:42:48.700Z",
     "completed_at": "2026-08-18T08:43:31.516Z"
+  },
+  "msyf1f0z0mrr4": {
+    "job_id": "msyf1f0z0mrr4",
+    "release_id": 372202533,
+    "release_tag": "build-msyf1f0z0mrr4",
+    "run_id": 32117863084,
+    "user_id": 8804030340,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-18T08:43:51.948Z"
   }
 }
