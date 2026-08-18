@@ -2,7 +2,9 @@
   "WIZZ-5AF21956": {
     "amount": 30,
     "maxUses": 3,
-    "usedBy": [],
+    "usedBy": [
+      1872202016
+    ],
     "createdAt": "2026-08-18T01:20:59.933Z"
   }
 }
