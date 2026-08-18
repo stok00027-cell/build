@@ -487,5 +487,16 @@
     "status": "success",
     "created_at": "2026-08-18T06:53:15.938Z",
     "completed_at": "2026-08-18T06:59:22.019Z"
+  },
+  "msybw9w5okfrf": {
+    "job_id": "msybw9w5okfrf",
+    "release_id": 372154810,
+    "release_tag": "build-msybw9w5okfrf",
+    "run_id": 32110602798,
+    "user_id": 8831298833,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-18T07:15:54.791Z"
   }
 }
