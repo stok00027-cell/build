@@ -391,5 +391,16 @@
     "status": "failed",
     "created_at": "2026-08-18T01:16:53.131Z",
     "completed_at": "2026-08-18T01:21:14.485Z"
+  },
+  "msxzaucehm7p0": {
+    "job_id": "msxzaucehm7p0",
+    "release_id": 372035857,
+    "release_tag": "build-msxzaucehm7p0",
+    "run_id": 32088028708,
+    "user_id": 8670094886,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-18T01:23:19.265Z"
   }
 }
