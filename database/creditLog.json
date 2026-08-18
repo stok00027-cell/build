@@ -1258,5 +1258,110 @@
     "amount": 1,
     "reason": "Rename Domain",
     "at": "2026-08-17T15:23:12.788Z"
+  },
+  {
+    "userId": 8511513555,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Rename Domain",
+    "at": "2026-08-17T15:24:29.657Z"
+  },
+  {
+    "userId": 8511513555,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-17T15:25:04.440Z"
+  },
+  {
+    "userId": 8511513555,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-17T15:39:03.448Z"
+  },
+  {
+    "userId": 1622822330,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-17T18:58:42.186Z"
+  },
+  {
+    "userId": 1622822330,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-17T18:59:35.526Z"
+  },
+  {
+    "userId": 7193787015,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-17T21:16:58.000Z"
+  },
+  {
+    "userId": 7861218464,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Rename Domain",
+    "at": "2026-08-18T00:04:04.330Z"
+  },
+  {
+    "userId": 8844143121,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Rename Domain",
+    "at": "2026-08-18T00:09:13.593Z"
+  },
+  {
+    "userId": 8844143121,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-18T00:09:33.059Z"
+  },
+  {
+    "userId": 7861218464,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-18T00:33:57.184Z"
+  },
+  {
+    "userId": 8670094886,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-18T01:22:04.903Z"
+  },
+  {
+    "userId": 8670094886,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-18T01:22:28.503Z"
+  },
+  {
+    "userId": 1872202016,
+    "type": "earn",
+    "amount": 30,
+    "reason": "Redeem voucher",
+    "at": "2026-08-18T01:26:26.339Z"
+  },
+  {
+    "userId": 7861218464,
+    "type": "earn",
+    "amount": 30,
+    "reason": "Redeem voucher",
+    "at": "2026-08-18T01:44:20.673Z"
+  },
+  {
+    "userId": 8247917167,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-18T03:25:48.126Z"
   }
 ]
