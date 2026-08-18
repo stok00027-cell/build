@@ -122,8 +122,8 @@
     "first_name": "⸸𝚡𝚟𝚊𝚗𝚎𝚜𝚌𝚝 𝙳𝚒𝚗𝚣𝚣𝙺𝚊𝚌𝚒𝚠𝚠",
     "last_name": null,
     "joinedAt": "2026-08-14T15:30:48.437Z",
-    "lastSeenAt": "2026-08-15T09:48:38.463Z",
-    "startCount": 3
+    "lastSeenAt": "2026-08-18T08:24:59.278Z",
+    "startCount": 4
   },
   "2008479765": {
     "id": 2008479765,
@@ -590,8 +590,8 @@
     "first_name": "-bàlz!? </>",
     "last_name": null,
     "joinedAt": "2026-08-18T05:08:27.344Z",
-    "lastSeenAt": "2026-08-18T07:14:46.428Z",
-    "startCount": 4
+    "lastSeenAt": "2026-08-18T08:25:04.058Z",
+    "startCount": 5
   },
   "8804030340": {
     "id": 8804030340,
@@ -609,6 +609,15 @@
     "last_name": null,
     "joinedAt": "2026-08-18T06:47:17.195Z",
     "lastSeenAt": "2026-08-18T06:47:17.195Z",
+    "startCount": 1
+  },
+  "8784295267": {
+    "id": 8784295267,
+    "username": "XakatalZ",
+    "first_name": "『𝐗𝐀𝐊𝐀 』",
+    "last_name": null,
+    "joinedAt": "2026-08-18T07:54:27.384Z",
+    "lastSeenAt": "2026-08-18T07:54:27.384Z",
     "startCount": 1
   }
 }
